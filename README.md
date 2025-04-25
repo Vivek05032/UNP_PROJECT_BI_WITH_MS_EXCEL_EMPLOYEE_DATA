@@ -6,4 +6,4 @@ Data analysis and visualization were carried out using Microsoft Excel.
 Pivot tables and charts were used to summarize metrics such as occupation distribution, income types, asset ownership, and communication preferences.
 A dashboard was created to present the insights in a clear and interactive format.
 The project highlights skills in data cleaning, categorization, visualization, and reporting using Excel.
-mx project file'https://1drv.ms/f/c/22a7e981ec485c4b/EuEFC6QGP41Km9248ROW0RoBdlA-R_25n0TUL9LBiCNnVg
+mx project file : https://1drv.ms/x/c/22a7e981ec485c4b/ER2MExlae4lLpD9qhA8qA0YBbhYrG_nx15JW6XLIT9NDqw
